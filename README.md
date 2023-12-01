@@ -1,14 +1,14 @@
 # Appliances-Energy-Prediction
-Project Overview:
+## Project Overview:
 For this project, I have a dataset with various columns related to energy consumption and environmental conditions. The goal of this project could be to analyze and visualize the data to gain insights into energy usage and the factors that influence it. You can explore trends, correlations, and patterns in the data to inform decision-making or predictions.
 
-Description:
+## Description:
 The dataset contains information related to energy consumption (Appliances and lights), temperature (T1 to T9), relative humidity (RH_1 to RH_9), weather conditions (T_out, Press_mm_hg, RH_out, Windspeed, Visibility, Tdewpoint), and two additional columns (rv1 and rv2).
 
-Summary:
+## Summary:
 The dataset appears to capture information related to a household's energy consumption and the environmental conditions affecting it. You can conduct various data analysis and visualization tasks to extract meaningful insights and patterns from the data.
 
-DataSet Information:
+## DataSet Information:
 1. Columns: The dataset consists of 29 columns.
 2. Date: The date and time of data collection.
 3. Appliances: Energy usage in Wh (target variable for prediction).
@@ -27,9 +27,6 @@ Attribute Information:
 The columns in the dataset represent various attributes related to energy usage, environmental conditions, and time. Each attribute provides specific information that can be used for analysis and visualization.
 
 This project offers a great opportunity to apply data analysis and visualization techniques to extract valuable insights from the dataset and make data-driven decisions
-
-
-
 
 ## Conclusion
 Date: This column likely represents the date and time of data recording, which can be valuable for time series analysis and understanding how the other variables change over time.
