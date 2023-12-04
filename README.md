@@ -17,7 +17,7 @@
 	Designing smart energy management systems that adjust energy usage in real-time.
 	Improving energy efficiency in households while ensuring user comfort through optimized appliance energy predictions.
 
-Introduction:
+## Introduction:
 Predicting the energy consumption of household appliances has become a critical area of research due to its potential for significant energy savings and improved efficienc]. With the rising concerns about energy conservation and sustainable practices, understanding and forecasting the energy usage of appliances play a pivotal role in optimizing resource utilization.
 Household electrical appliances contribute substantially to energy consumption, particularly heating and cooling systd9)]. Advancements in data-driven models and machine learning techniques have enabled researchers to develop predictive models that utilize various factors such as temperature, humidity, historical usage patterns, and environmental conditions to estimate energy consump)].
 Efforts to create accurate predictive models aim not only to optimize energy usage but also to provide insights into consumer behavior patterns and their impact on energy consum-1)]. These models serve as a foundation for developing strategies to minimize wastage and enhance energy efficiency in households.
